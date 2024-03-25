@@ -6,6 +6,7 @@
 body, html {
   height: 100%;
   margin: 0;
+  overflow: hidden;
   
 }
 
@@ -189,7 +190,7 @@ img{
 }
 @media (max-width: 999px) {
   body {
-    
+
     overflow-x: hidden;
   }
   .nav-list {
